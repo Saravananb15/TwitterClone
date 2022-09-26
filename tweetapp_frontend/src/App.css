@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  height: fit-content;
+  background-color: #9fd1c0;
+  color: rgb(232, 238, 153);
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+ 
+
+#root{
+  height: fit-content;
+  min-height: 100%;
+  background-color:  #9fd1c0;
+  color: rgb(142, 199, 159);
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+

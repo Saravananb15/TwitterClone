@@ -1,0 +1,136 @@
+.navbar_bg{
+  background-color: #192831;
+  padding: 0px;
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+  padding-left: 10px !important;
+}
+
+.appName {
+  font-family: "OpenSans-Regular" ;
+  font-weight: 600 ;
+  font-size: 14px ;
+  line-height: 21px ;
+  color: #FFFFFF ;
+  margin: 0px ; 
+  margin-left: 20px ;
+  display: inline-block;
+
+}
+.pages_dd {
+  font-family: "OpenSans-Regular" ;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  color: #FFFFFF !important;
+  margin-right: 10px !important;
+  padding: 5px;
+}
+.dd_sub_heading{
+  font-family: "OpenSans-Regular" ;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  color: #192D38;
+  margin-left: 15px;
+}
+
+.dd_page{
+  font-family: "OpenSans-Regular" ;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  color: #0578BE !important;
+  padding-top: 12px !important;
+  padding-bottom: 12px !important;
+}
+.menu-width{
+  min-width: 13rem !important;
+  top: 30px !important;
+}
+
+.remove_button_styling{
+  background-color: transparent;
+  border-color: transparent;
+  border-width: 0px;
+}
+
+.profile-menu-width{
+  min-width: 13rem !important;
+}
+.dropdown-item:active {
+  background-color: #ECF2F6 !important;
+}
+
+.homeLink:hover{
+  color: #BFCCD9 !important;
+  text-decoration: none;
+}
+
+.homeLink {
+  padding: 5px;
+}
+
+.toggler_icon{
+  background-color: white !important;
+}
+
+.right-menu{
+  display: inline-block;
+  margin: 0;
+  font-family: "OpenSans-Regular" ;
+  color:white !important;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.feedback{
+  cursor: pointer;
+  padding: 5px
+}
+
+.feedback:hover{
+  color: #BFCCD9 !important;
+}
+
+.pages_dd:hover{
+  color: #BFCCD9 !important;
+}
+
+.breadcrumb__link{
+  color: #0578BE !important;
+  cursor: pointer;
+  padding-right: 5px;
+  font-weight: normal;
+  font-size: 14px;
+  font-family: "OpenSans-Regular" ;
+  line-height: 18px;
+}
+.breadcrumb__link:hover{
+  text-decoration: none;
+}
+.breadcrumb__container{
+  padding-left: 20px;
+  padding-top: 15px;
+  background-color: white;
+  height: 55px;
+}
+.breadcrumb__last{
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  color: #192D38;
+  font-family: "OpenSans-Regular" ;
+  margin-right: 5px;
+}
+
+@media (max-width: 991px) {
+  .w-md-100 {
+     width:100% !important;
+     justify-content: space-between;
+     align-items: center;
+     display: inline-flex;
+  }
+
+}

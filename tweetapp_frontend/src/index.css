@@ -1,0 +1,54 @@
+html,
+body {
+  height: 100%;
+  -webkit-overflow-scrolling: touch;
+}
+@font-face {
+  font-family: 'Futura-Medium';
+  src: local('Futura-Medium'),
+    url(./assets/fonts/Futura-Medium.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow-Bold';
+  src: local('Barlow-Bold'),
+    url(./assets/fonts/Barlow-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow-Regular';
+  src: local('Barlow-Regular'),
+    url(./assets/fonts/Barlow-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Barlow-Black';
+  src: local('Barlow-Black'),
+    url(./assets/fonts/Barlow-Black.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Barlow-SemiBold';
+  src: local('Barlow-SemiBold'),
+    url(./assets/fonts/Barlow-SemiBold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'OpenSans-SemiBold';
+  src: local('OpenSans-SemiBold'),
+    url(./assets/fonts/OpenSans-SemiBold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'OpenSans-Regular';
+  src: local('OpenSans-Regular'),
+    url(./assets/fonts/OpenSans-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'OpenSans-Bold';
+  src: local('OpenSans-Bold'),
+    url(./assets/fonts/OpenSans-Bold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'OpenSans-Italic';
+  src: local('OpenSans-Italic'),
+    url(./assets/fonts/OpenSans-Italic.ttf) format('truetype');
+}
